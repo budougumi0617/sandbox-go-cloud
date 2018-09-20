@@ -1,4 +1,4 @@
-// +build beta
+// +build !gcp
 
 package main
 

@@ -1,4 +1,4 @@
-// +build alpha
+// +build gcp
 
 package main
 
